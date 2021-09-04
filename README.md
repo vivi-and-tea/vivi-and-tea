@@ -6,7 +6,7 @@
 
 #### 🌱 I’m currently learning: how to deploy with AWS App Runner　| 　AWSのApp Runnerでアプリをデプロイする方法。
 
-#### 💬 Ask me about: Cat rescure and adoptions in the Greater Tokyo Area 　| 　 都内の保護猫活動。
+#### 💬 Ask me about: Cat rescue and adoption in the Greater Tokyo Area 　| 　 都内の保護猫活動。
 
 <!--
 **vivi-and-tea/vivi-and-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
