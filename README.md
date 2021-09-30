@@ -1,3 +1,5 @@
+<img src="github.png">
+
 ####  I'm Vivi, beginner programmer, cat-lover, and beer enthusiast.　|  　猫・ビール好きの初心者プログラマーViviです。
 
 ---------
