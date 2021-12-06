@@ -4,9 +4,9 @@
 
 ---------
 
-####  🔭 I’m currently working on: TabiNyans, a mock cat hotel search/review site.　|  TabiNyans、猫ホテルの検索・レビューサイト。
+####  🔭 I’m currently working on: Nyanbiki, a cat counter　game using AWS Rekognition.　|  Nyanbiki, AWSのRekognitionを使って猫ちゃんを数えるゲーム
 
-#### 🌱 I’m currently learning: how to deploy with AWS App Runner　| 　AWSのApp Runnerでアプリをデプロイする方法。
+#### 🌱 I’m currently studying: PyTest and studying for AWS CSAA　| 　PyTestの使い方・AWS CSAAを向けて勉強中
 
 #### 💬 Ask me about: Cat rescue and adoption in the Greater Tokyo Area 　| 　 都内の保護猫活動。
 
