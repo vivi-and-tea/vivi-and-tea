@@ -4,7 +4,7 @@
 
 ---------
 
-####  🔭 I’m currently working on: Nyanbiki, a cat counter　game using AWS Rekognition.　|  Nyanbiki, AWSのRekognitionを使って猫ちゃんを数えるゲーム
+####  🔭 I’m currently working on: Nyanbiki, a cat counter game using AWS Rekognition.　|  Nyanbiki, AWSのRekognitionを使って猫ちゃんを数えるゲーム
 
 #### 🌱 I’m currently studying: PyTest and studying for AWS CSAA　| 　PyTestの使い方・AWS CSAAを向けて勉強中
 
