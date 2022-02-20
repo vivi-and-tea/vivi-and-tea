@@ -4,9 +4,7 @@
 
 ---------
 
-####  🔭 I’m currently working on: Nyanbiki, a cat counter game using AWS Rekognition.　|  Nyanbiki, AWSのRekognitionを使って猫ちゃんを数えるゲーム
-
-#### 🌱 I’m currently studying: PyTest and studying for AWS CSAA　| 　PyTestの使い方・AWS CSAAを向けて勉強中
+#### 🌱 I’m currently studying: JavaScript/TypeScript and Frontend Frameworks　| JavaScript/Typescript, そしてフロントエンドのフレームワーク
 
 #### 💬 Ask me about: Cat rescue and adoption in the Greater Tokyo Area 　| 　 都内の保護猫活動。
 
