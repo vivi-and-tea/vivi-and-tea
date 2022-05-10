@@ -4,8 +4,6 @@
 
 ---------
 
-#### 🌱 I’m currently studying: JavaScript/TypeScript and Frontend Frameworks　|  JavaScript/Typescript, フロントエンドのフレームワーク
-
 #### 💬 Ask me about: Cat rescue and adoption in the Greater Tokyo Area 　| 　 都内の保護猫活動。
 
 <!--
