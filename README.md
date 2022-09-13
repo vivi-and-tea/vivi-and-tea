@@ -1,11 +1,5 @@
 <img src="github2.png">
 
-####  I'm Vivi, beginner programmer, cat-lover, and beer enthusiast.　|  　猫・ビール好きの初心者プログラマーViviです。
-
----------
-
-#### 💬 Ask me about: Cat rescue and adoption in the Greater Tokyo Area 　| 　 都内の保護猫活動。
-
 <!--
 **vivi-and-tea/vivi-and-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
